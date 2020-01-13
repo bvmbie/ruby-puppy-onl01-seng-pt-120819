@@ -15,5 +15,6 @@ class Dog
   
   def print_all
   
+  end
   
 end
