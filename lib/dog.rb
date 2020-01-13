@@ -10,7 +10,7 @@ class Dog
   end
   
   def self.all
-    @@all.to_a
+    @@all.to_s
   end
   
   
